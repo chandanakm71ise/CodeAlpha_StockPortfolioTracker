@@ -13,7 +13,8 @@ A simple Python-based Stock Portfolio Tracker that allows users to manage their 
 ## Technologies Used
 - Python
 - Object-Oriented Programming
-- File Handling
+- Dictionary
+- Arithmetic operations
 
 ## How to Run
 1. Download or clone this repository.
